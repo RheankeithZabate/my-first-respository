@@ -1,7 +1,4 @@
 # my-first-respository
-# my-first-repository
-
-# my-first-repository
 
 ## About Me
 
