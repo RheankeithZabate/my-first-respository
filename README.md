@@ -1,5 +1,14 @@
 # my-first-respository
-About Me:
-I am Rhean keith Zabate
-A BSIT student in University of Cebu. I am interested in learning programming technology and Data analysis.
-My learning goal is how to actually apply all this learning to real-world projects so I don't get completely overwhelmed when i am face with difficulties in the near future.
+# my-first-repository
+
+# my-first-repository
+
+## About Me
+
+My name is Rhean Keith Zabate.
+
+I am a BSIT student at the University of Cebu, Section 2-E. I am interested in learning programming, technology, and data analysis.
+
+## My Learning Goal
+
+As a BSIT student from Section 2-E, my learning goal is to apply what I learn to real-world projects so I can become more confident and prepared for future challenges.
