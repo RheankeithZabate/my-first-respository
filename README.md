@@ -1,7 +1,5 @@
 # my-first-respository
 
-# My First Repository
-
 ## Full Name: Rhean Keith V. Zabate
 
 ## Course and Section: BSIT 2E
